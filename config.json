@@ -1,9 +1,9 @@
 {
-  "token": "your_bot_token",
+  "token": "MTI0NTM4NjMxNDM4ODQ3NjAzNg.GWtAZO.W_DaJTvfxQysKjJNX2aPDgNsXabBp9tcHkVSH4",
   "log-channels": {
-    "members": "channel_id",
-    "messages": "channel_id",
-    "channels": "channel_id"
+    "members": "1245381133521129613",
+    "messages": "1245381752067850302",
+    "channels": "1245381606902988851"
   },
   "colors": {
     "error": "#f22c2c",
